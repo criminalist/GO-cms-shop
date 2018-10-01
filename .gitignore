@@ -1,0 +1,6 @@
+ 
+ debug
+ debug-test
+ *.exe
+ *.tmp
+ .DS_Store
