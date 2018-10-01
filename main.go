@@ -21,4 +21,5 @@ func main() {
 		//beego.SetLevel(beego.LevelError)
 	}
 	beego.Run()
+
 }
